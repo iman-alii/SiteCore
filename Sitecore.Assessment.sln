@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Google", "Google\Google.csproj", "{696BCD32-6024-4F03-A78A-B050D6F3F5D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Expedia", "Expedia\Expedia.csproj", "{A628989F-5116-4CA4-9852-22A52E0E0C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{696BCD32-6024-4F03-A78A-B050D6F3F5D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{696BCD32-6024-4F03-A78A-B050D6F3F5D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{696BCD32-6024-4F03-A78A-B050D6F3F5D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{696BCD32-6024-4F03-A78A-B050D6F3F5D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A628989F-5116-4CA4-9852-22A52E0E0C39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A628989F-5116-4CA4-9852-22A52E0E0C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A628989F-5116-4CA4-9852-22A52E0E0C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A628989F-5116-4CA4-9852-22A52E0E0C39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2059C7-2334-4A1C-8DAF-29EEF2DF6B95}
+	EndGlobalSection
+EndGlobal
